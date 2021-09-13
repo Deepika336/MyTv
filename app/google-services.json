@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "922084300016",
+    "project_id": "myproject-f4d7f",
+    "storage_bucket": "myproject-f4d7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922084300016:android:f6ffedf85d7f54bafd5e35",
+        "android_client_info": {
+          "package_name": "com.example.mytv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922084300016-84gad0enadubimei8pnpbpfiinfm22qm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mytv",
+            "certificate_hash": "01dedc8d2b91cac376fd5f656aebbf0a17700dd1"
+          }
+        },
+        {
+          "client_id": "922084300016-2ilogn71gk58brbtq464n3o409dgj34k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAutbm5s1t7J1Y7E3P1GgPl5k_gE7y8JiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922084300016-2ilogn71gk58brbtq464n3o409dgj34k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
